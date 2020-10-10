@@ -18,7 +18,7 @@
 <a href="https://dev.to/jefferyhus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jefferyhus" height="30" width="40" /></a>
 <a href="https://twitter.com/jefferyhus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jefferyhus" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jefferyhus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jefferyhus" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/2163270/jeffery-thagintoki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jefferyhus" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2163270/jeffery-thagintoki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jefferyhus" height="30" width="40" /></a>
 <a href="https://fb.com/jeffery.thagintoki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jeffery.thagintoki" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jefferyhus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="jefferyhus" height="30" width="40" /></a>
 </p>
