@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaafari El Housseine</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jefferyhus)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jefferyhus&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jefferyhus&label=Profile%20views&color=0e75b6&style=flat" alt="jefferyhus" /> </p>
 
