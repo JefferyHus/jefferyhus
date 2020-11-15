@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaafari El Housseine</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
-<center><img width=800 src="https://github-profile-trophy.vercel.app/?username=jefferyhus&theme=onedark&margin-w=15"/></center>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jefferyhus&label=Profile%20views&color=0e75b6&style=flat" alt="jefferyhus" /> </p>
-
-<p align="left"> <a href="https://twitter.com/jefferyhus" target="blank"><img src="https://img.shields.io/twitter/follow/jefferyhus?logo=twitter&style=for-the-badge" alt="jefferyhus" /></a> </p>
+<center><img width=800 src="https://github-profile-trophy.vercel.app/?username=jefferyhus&theme=onedark&margin-w=20"/></center>
 
 - 🔭 I’m currently working on [Ontwik](https://ontwik-dev.com/)
 
