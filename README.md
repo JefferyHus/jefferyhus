@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ontwik](https://ontwik-dev.com/)
 
-- 🌱 I’m currently learning **Rust, gRPC**
+- 🌱 I’m currently learning **Rust, gRPC, Solidity**
 
 - 💬 Ask me about **React, Vue, Svelte, PHP & GraphQL**
 
